@@ -1,0 +1,22 @@
+[
+    {
+      "ParameterKey": "GitHubRepo",
+      "ParameterValue": "https://github.com/suahad/MLOPS-cicd.git"
+    },
+    {
+        "ParameterKey": "GitHubBranch",
+        "ParameterValue": "main"
+      },
+      {
+        "ParameterKey": "GitHubToken",
+        "ParameterValue": ""
+      },
+      {
+        "ParameterKey": "GitHubUser",
+        "ParameterValue": "Suahad"
+      },
+      {
+        "ParameterKey": "MlOpsStepFunctionArn",
+        "ParameterValue": "arn:aws:states:us-east-2:934624764837:stateMachine:MLOpsStepFunction-934624764837"
+      }
+]
